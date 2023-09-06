@@ -1,17 +1,24 @@
 <div align="center">
 
-# 👋 Hi there, I'm Priyanshu Garg
+# 👋 Hello, I'm Priyanshu Garg
 
-I'm a passionate Software Developer with a knack for turning code into innovative solutions. 🚀
+I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
 
 </div>
 
 ## 💻 Tech Stack
 
-- **Languages:** Java, C/C++
-- **Web Development:** HTML/CSS, JavaScript
-- **Operating Systems:** Linux
-- **Database:** MySQL
+- **Languages:**
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+- **Web Development:**
+[![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **Operating Systems:**
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+- **Database:** 
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
 
 ## 🎓 Education
 
@@ -27,12 +34,12 @@ I'm a passionate Software Developer with a knack for turning code into innovativ
 
 ## 🌐 Interests
 
-- Tech Enthusiast 💡
-- Problem-Solving 🧩
-- Continuous Learning 📚
+- Exploring Tech Horizons 💡
+- Embracing Challenges and Problem-Solving Puzzles 🧩
+- A Lifelong Student Committed to Continuous Learning 📚
 
 <div align="center">
 
-**Let's connect!** Find me on [LinkedIn](https://www.linkedin.com/in/priyans-hu) or explore more on [GitHub](https://github.com/priyans-hu). I'm always open to new opportunities and collaborations.
+**Let's Connect and Code Together!** Find me on [LinkedIn](https://www.linkedin.com/in/priyans-hu) or explore my code world on [GitHub](https://github.com/priyans-hu). I'm always open to exciting opportunities and collaborations.
 
 </div>
