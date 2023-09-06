@@ -1,16 +1,38 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**Priyans-hu/priyans-hu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Priyanshu Garg
 
-Here are some ideas to get you started:
+I'm a passionate Software Developer with a knack for turning code into innovative solutions. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 💻 Tech Stack
+
+- **Languages:** Java, C/C++
+- **Web Development:** HTML/CSS, JavaScript
+- **Operating Systems:** Linux
+- **Database:** MySQL
+
+## 🎓 Education
+
+- Bachelor of Engineering in Computer Science | Chitkara University, Punjab
+- Higher Secondary (XII) | CCDPS, U.P.
+
+## 🌟 Certifications
+
+- JavaScript Essentials
+- Introduction To Python
+- Google Analytics For Beginners
+- Introduction To CyberSecurity
+
+## 🌐 Interests
+
+- Tech Enthusiast 💡
+- Problem-Solving 🧩
+- Continuous Learning 📚
+
+<div align="center">
+
+**Let's connect!** Find me on [LinkedIn](https://www.linkedin.com/in/priyans-hu) or explore more on [GitHub](https://github.com/priyans-hu). I'm always open to new opportunities and collaborations.
+
+</div>
