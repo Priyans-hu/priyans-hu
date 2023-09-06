@@ -1,5 +1,6 @@
 <div align="center">
 
+![Cover Image](https://github.com/Priyans-hu/priyans-hu/blob/main/cover.png)<br><br>
 # 👋 Hello, I'm Priyanshu Garg
 
 I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
