@@ -1,15 +1,17 @@
 <div align="center">
 
-![Cover Image](https://github.com/Priyans-hu/priyans-hu/blob/main/cover.png)<br><br>
-# 👋 Hello, I'm Priyanshu Garg
+  ![Cover Image](https://github.com/Priyans-hu/priyans-hu/blob/main/cover.png)<br><br>
+  # 👋 Hello, I'm Priyanshu Garg
 
-I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
+  I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
 
 </div>
 
 <br/><br/>
 <div>
-[![An image of @priyanshu0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu0)](https://holopin.io/@priyanshu0)
+
+  [![An image of @priyanshu0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu0)](https://holopin.io/@priyanshu0)
+
 </div>
 <br/>
 
