@@ -7,6 +7,12 @@ I'm not your ordinary Software Developer; think of me as a digital magician who 
 
 </div>
 
+<br/><br/>
+<div>
+[![An image of @priyanshu0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu0)](https://holopin.io/@priyanshu0)
+</div>
+<br/>
+
 ## 💻 Tech Stack
 
 - **Languages:**
