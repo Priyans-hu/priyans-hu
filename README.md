@@ -1,7 +1,8 @@
 <div align="center">
 
   ![Cover Image](https://github.com/Priyans-hu/priyans-hu/blob/main/cover.png)<br><br>
-  # 👋 Hello, I'm Priyanshu Garg
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=32&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Priyanshu." alt="Typing SVG" /></a>
 
   I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
 
