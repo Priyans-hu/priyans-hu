@@ -72,3 +72,6 @@
 **Let's Connect and Code Together!** Find me on [LinkedIn](https://www.linkedin.com/in/priyans-hu) or explore my code world on [GitHub](https://github.com/priyans-hu). I'm always open to exciting opportunities and collaborations.
 
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=Priyans-hu&label=Profile%20Views&icon=7&pretty=true)](https://visitcount.itsvg.in)
+
