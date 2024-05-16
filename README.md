@@ -53,24 +53,18 @@
 </div>
 
 
-
 ## 🎓 Education
 
 - Bachelor of Engineering in Computer Science | Chitkara University, Punjab
 - Higher Secondary (XII) | CCDPS, U.P.
-
-## 🌟 Certifications
-
-- JavaScript Essentials
-- Introduction To Python
-- Google Analytics For Beginners
-- Introduction To CyberSecurity
 
 ## 🌐 Interests
 
 - Exploring Tech Horizons 💡
 - Embracing Challenges and Problem-Solving Puzzles 🧩
 - A Lifelong Student Committed to Continuous Learning 📚
+
+![snake gif](https://github.com/priyans-hu/priyans-hu/blob/output/snake.svg)
 
 <div align="center">
 
