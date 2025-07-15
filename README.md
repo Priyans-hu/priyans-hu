@@ -2,9 +2,11 @@
 
   ![Cover Image](https://github.com/Priyans-hu/priyans-hu/blob/main/cover.png)<br><br>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&size=32&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=%F0%9F%91%8B+Hello%2C+I'm+Priyanshu." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cedarville&size=32&pause=500&color=FFFFFF&center=true&random=false&width=435&lines=Hey%2C+I'm+Priyanshu." alt="Hey, I'm Priyanshu." /></a>
 
-  I'm not your ordinary Software Developer; think of me as a digital magician who thrives on turning code into pure innovation and enchantment. 🪄✨
+<p align="left">
+Full-stack developer with expertise in the MERN stack, Java, Vue.js, and Django. Strong foundation in computer science fundamentals, data structures and algorithms (DSA), and DBMS. Skilled in building scalable, efficient applications and quickly adapting to new technologies and tech stacks.
+</p>
 
 </div>
 
@@ -50,18 +52,6 @@
 ![Nano Editor](https://img.shields.io/badge/-Nano_Editor-7f7f7f?style=flat-square&logo=nano&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=black)
 </div>
-
-
-## 🎓 Education
-
-- Bachelor of Engineering in Computer Science | Chitkara University, Punjab
-- Higher Secondary (XII) | CCDPS, U.P.
-
-## 🌐 Interests
-
-- Exploring Tech Horizons 💡
-- Embracing Challenges and Problem-Solving Puzzles 🧩
-- A Lifelong Student Committed to Continuous Learning 📚
 
 ![snake gif](https://github.com/priyans-hu/priyans-hu/blob/output/snake.svg)
 
