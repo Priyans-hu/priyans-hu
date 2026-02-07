@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Priyanshu Garg - Resume</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.5;
+      color: #333;
+      max-width: 850px;
+      margin: 0 auto;
+      padding: 32px 40px;
+      font-size: 13px;
+    }
+    h1 { font-size: 32px; font-weight: 600; text-align: center; margin-bottom: 6px; }
+    .contact { text-align: center; font-size: 12px; color: #333; margin-bottom: 4px; }
+    .contact a { color: #333; text-decoration: none; }
+    .links { text-align: center; font-size: 12px; margin-bottom: 16px; }
+    .links a { color: #333; text-decoration: none; }
+    h2 { font-size: 14px; font-weight: 700; border-bottom: 2px solid #333; padding-bottom: 3px; margin: 18px 0 10px; text-transform: uppercase; }
+    h3 { font-size: 13px; font-weight: 700; margin-bottom: 2px; }
+    .entry { margin-bottom: 14px; }
+    .entry-header { display: flex; justify-content: space-between; align-items: baseline; }
+    .entry-subtitle { font-size: 12px; color: #555; }
+    .entry-date { font-size: 12px; color: #333; text-align: right; }
+    ul { margin-left: 18px; margin-top: 4px; }
+    li { margin-bottom: 3px; }
+    .tech-stack { font-size: 12px; color: #555; margin-bottom: 4px; }
+    .skills-row { margin-bottom: 6px; }
+    .skills-label { font-weight: 700; }
+    .edu-row { display: flex; justify-content: space-between; margin-bottom: 4px; }
+    .github-link { font-size: 11px; float: right; }
+    @media print {
+      body { padding: 20px 30px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Priyanshu Garg</h1>
+    <div class="contact">+91 98918 59683 | <a href="mailto:pg.tldr@gmail.com">pg.tldr@gmail.com</a></div>
+    <div class="links">
+      <a href="https://linkedin.com/in/priyans-hu">linkedin.com/in/priyans-hu</a> |
+      <a href="https://github.com/priyans-hu">github.com/priyans-hu</a> |
+      <a href="https://priyans-hu.netlify.app">priyans-hu.netlify.app</a>
+    </div>
+  </header>
+
+  <section>
+    <h2>Work Experience</h2>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div>
+          <h3>SDE-1 Fullstack</h3>
+          <div class="entry-subtitle">Plivo, Bengaluru</div>
+        </div>
+        <div class="entry-date">Aug 2025 - Present</div>
+      </div>
+      <ul>
+        <li>Building cloud communications platform supporting SMS, Voice APIs, and AI agents across 190+ countries, serving clients including Uber, IBM, and Discord.</li>
+        <li>Developing and maintaining backend services in <strong>Go</strong> and frontend applications in <strong>React/TypeScript</strong>, handling systems processing <strong>1B+ monthly API requests</strong>.</li>
+        <li>Working with <strong>AWS</strong>, <strong>PostgreSQL</strong>, and microservices architecture to ensure high availability and scalability.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <div>
+          <h3>Software Engineer Intern</h3>
+          <div class="entry-subtitle">Summit Technology Consulting Group (STGI), Panchkula</div>
+        </div>
+        <div class="entry-date">July 2024 - May 2025</div>
+      </div>
+      <ul>
+        <li>Contributed to the <strong>Loan Management System</strong>, developing a customizable financial template using <strong>Handsontable</strong> and <strong>Tiptap Editor</strong>, reducing error rates by <strong>25%</strong>.</li>
+        <li>Built and optimized RESTful APIs using <strong>Django</strong> and <strong>Node.js</strong>, achieving <strong>30% performance boost</strong> through database optimization in <strong>PostgreSQL</strong>.</li>
+        <li>Designed an <strong>internal onboarding tool</strong> replacing Excel-based workflows, enabling centralized config management with role-based access, improving efficiency by <strong>40%</strong>.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+
+    <div class="entry">
+      <div class="entry-header">
+        <h3>Argus - AI Context Generator</h3>
+        <a href="https://github.com/Priyans-hu/argus" class="github-link">Github</a>
+      </div>
+      <div class="tech-stack">Go, CLI, AST Parsing, File System Operations</div>
+      <ul>
+        <li>Built a CLI tool that scans codebases and auto-generates context files (<strong>CLAUDE.md</strong>, <strong>.cursorrules</strong>, <strong>copilot-instructions</strong>) for AI coding assistants.</li>
+        <li>Implements intelligent detection of tech stack, project structure, conventions, and build commands through static analysis.</li>
+        <li>Eliminates manual context file maintenance — keeps AI assistants in sync with evolving codebases.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <h3>sreq - Service-Aware API Client</h3>
+        <a href="https://github.com/Priyans-hu/sreq" class="github-link">Github</a>
+      </div>
+      <div class="tech-stack">Go, Consul, AWS Secrets Manager, CLI</div>
+      <ul>
+        <li>Developed a CLI tool that auto-resolves service URLs and credentials from <strong>Consul</strong> and <strong>AWS Secrets Manager</strong> for API testing.</li>
+        <li>Eliminates manual credential hunting across environments (dev/staging/prod) — just specify service name and environment.</li>
+        <li>Features multi-provider support, environment switching, and git-friendly config for team sharing.</li>
+      </ul>
+    </div>
+
+    <div class="entry">
+      <div class="entry-header">
+        <h3>Ledger - Business Management System</h3>
+        <a href="https://github.com/Priyans-hu/ledger" class="github-link">Github</a>
+      </div>
+      <div class="tech-stack">React.js, Node.js, Express.js, MongoDB, PostgreSQL</div>
+      <ul>
+        <li>Built a full-stack application for managing customer records, sales/expenses, and <strong>GST-compliant invoice generation</strong>.</li>
+        <li>Implemented real-time analytics dashboard for daily, weekly, and monthly sales/profit visualization.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <div class="skills-row"><span class="skills-label">Languages:</span> Go, TypeScript, JavaScript, Python, Java, C++</div>
+    <div class="skills-row"><span class="skills-label">Technologies:</span> React.js, Next.js, Node.js, Express.js, Go/Gin, Django, PostgreSQL, MongoDB, Redis, AWS, Docker, Consul, Git, CI/CD</div>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <div class="edu-row">
+      <div><strong>Chitkara University</strong>, Punjab - B.E. Computer Science</div>
+      <div>2021 - 2025 | <strong>9.1 CGPA</strong></div>
+    </div>
+  </section>
+</body>
+</html>

@@ -40,7 +40,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://priyans-hu.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/-Priyanshu_Garg-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyans-hu)
 [![Instagram](https://img.shields.io/badge/-@shotbypriyanshu-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shotbypriyanshu)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mailpriyanshugarg@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pg.tldr@gmail.com)
 
 ---
 
